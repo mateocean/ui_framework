@@ -1,0 +1,77 @@
+/* Small smartphone */
+@media (max-width: 400px) {
+
+}
+
+/* Smartphone */
+@media (max-width: 550px) {
+	.grid { flex-direction:column }
+	.cell { width:100% !important; }
+
+	.small {
+		padding: 1% 2% !important;
+		font-size: 12pt !important;
+	}
+
+	input[type="submit"],
+	.button {
+		padding: 4% 5%;
+		font-size: 16pt;
+	}
+
+	.big {
+		padding: 5% 6%;
+		font-size: 18pt;
+	}
+
+	.cell {
+		padding: 5%;
+	}
+
+	input[type="email"],
+	input[type="number"],
+	input[type="search"],
+	input[type="text"],
+	input[type="tel"],
+	input[type="url"],
+	input[type="password"],
+	textarea,
+	select {
+		padding: 4% 5%;
+		font-size: 16pt;
+	}
+
+}
+
+/* Tablets */
+@media (max-width: 750px) {}
+
+/* Notebook */
+@media (max-width: 1000px) {}
+
+/* Desktop */
+@media (max-width: 1200px) {}
+
+
+
+/* Make element full width */
+.full-width {
+  width: 100%;
+  box-sizing: border-box; }
+
+/* Make sure elements don't run outside containers (great for images in columns) */
+.max-full-width {
+  max-width: 100%;
+  box-sizing: border-box; }
+
+/* Float either direction */
+.pull-right {
+  float: right; }
+.pull-left {
+  float: left; }
+
+/* Clear a float */
+.c-f {
+  content: "";
+  display: table;
+  clear: both; }

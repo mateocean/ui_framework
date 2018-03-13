@@ -1,0 +1,34 @@
+.red { background-color: ##FF0000; }
+.orange { background-color: #FFCE00; }
+.green { background-color: ##1ED760; }
+.blue { background-color: #207afb; }
+.dark-blue { background-color: #2c3bec; }
+.violet { background-color: ##440099; }
+.black { background-color: #000000; }
+
+/* Gradients from webgradients.com */
+
+.winter { background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%); }
+.grass { background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%); }
+.azure { background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%); }
+.deepblue { background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%); }
+.raspberry { background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%); }
+.malibu { background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%); }
+.life { background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%); }
+.sunsent { background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%); }
+.plum { background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+.fisher { background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%); }
+.lemon { background-image: linear-gradient(to top, #96fbc4 0%, #f9f586 100%); }
+.itemo { background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%); }
+.violet { background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%); }
+.wine { background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%); }
+.bliss { background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%); }
+.hopes { background-image: linear-gradient(to top, #c471f5 0%, #fa71cd 100%); }
+.sharpblues { background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%); }
+.love { background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%); }
+.phoenix { background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%); }
+.silence { background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%); }
+.mars { background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%); }
+.seashore { background-image: linear-gradient(to top, #209cff 0%, #68e0cf 100%); }
+.miracle { background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%); }
+.nightcall { background-image: linear-gradient(-225deg, #AC32E4 0%, #7918F2 48%, #4801FF 100%); }
